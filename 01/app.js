@@ -1,4 +1,8 @@
 
+
+// Prosze pięknie o zaliczenie :) 
+
+
 /* rozwiązanie z pętlą for */
 const x = 4;
 
